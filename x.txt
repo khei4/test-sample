@@ -1,1 +1,1 @@
-Wrong content of x.txt
+Correct content of x.txt
