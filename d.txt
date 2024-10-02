@@ -1,1 +1,1 @@
-Content of d.txt
+Different content in work for d.txt
